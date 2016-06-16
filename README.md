@@ -2,7 +2,6 @@
 Makes all headings on a page linkable, so you can save your position on the page for later use (or sharing with someone who has this script installed too).
 
 This is a user script, which requires [Grease Monkey](firefox-addon)* to run.
-https://addons.mozilla.org/pl/firefox/addon/greasemonkey/
 
 ## Installation
 You can install user script automatically by viewing the script file on GitHub and clicking 'Raw' link. If you have Grease Monkey* addon installed, it will automatically recognize the file as a user script and prompt you with installation dialog.
