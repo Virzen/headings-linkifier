@@ -8,6 +8,7 @@ You can install user script automatically by viewing the script file on GitHub a
 
 For more details please refer to the [article on user script installation](gm-install-docs) on official wiki.
 
+***
 \* or equivalent for platform other than Firefox
 
 [firefox-addon]: https://addons.mozilla.org/pl/firefox/addon/greasemonkey/ "Grease Monkey on Firefox Addons"
