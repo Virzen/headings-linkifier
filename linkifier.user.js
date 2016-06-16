@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        headings-linkifier
 // @namespace   Virzen
-// @include     ''
+// @include     *
 // @description Adds links to all heading on the page
 // @version     1.0.0
 // @grant       none
